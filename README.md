@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bonk1212
-- 👀 I’m interested in Coding Unity2D/3D and websites using html and css
-- 🌱 I’m currently learning Unity3D and creating websites using html and css
+- 👀 I’m interested in Coding python and websites using html and css
+- 🌱 I’m currently learning Python and creating websites using html and css
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me just don't
 
